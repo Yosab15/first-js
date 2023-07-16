@@ -1,0 +1,33 @@
+.title{
+    text-align: center;
+}
+h1{
+   
+    font-size: 80px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.title p{
+    display: block;
+   margin-block-start: 1rem;
+   margin-block-end: 1rem;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-size: 35px;
+    padding-bottom: 20px;
+}
+button {
+    width: 250px;
+    height: 80px;
+    
+    background-color: blue;
+    color: white;
+}
+button:hover {
+    background-color: green;
+}
+.quote{
+    text-align: center;
+    font-size: 35px;
+    font-style: italic;
+    font-weight: bold;
+}
